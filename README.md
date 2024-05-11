@@ -5,8 +5,8 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lanomw)
-[![cnblogs](https://img.shields.io/badge/B-cnblogs-blue)](https://www.cnblogs.com/lanomw)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/soft-winds)
+[![cnblogs](https://img.shields.io/badge/B-cnblogs-blue)](https://liuxiaodi.cn)
 
 &nbsp;
 
@@ -15,8 +15,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/lanomw">
-    <img width="55%" align="right" alt="Lanomw's github stats" src="https://github-readme-stats.vercel.app/api?username=soft-winds&show_icons=true&hide_border=true" />
+  <a href="https://github.com/soft-winds">
+    <img width="55%" align="right" alt="soft-winds's github stats" src="https://github-readme-stats.vercel.app/api?username=soft-winds&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
